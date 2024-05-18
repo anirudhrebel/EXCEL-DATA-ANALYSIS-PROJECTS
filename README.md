@@ -35,9 +35,9 @@ This project offers a comprehensive view of IPL data across multiple seasons, he
 [IPL_EXCEL_FILE](https://github.com/anirudhrebel/EXCEL-DATA-ANALYSIS-PROJECTS/blob/main/ip%20matches.xlsx)
 
 #Project - 2
-#Road Accident Data Dashboard
-Road Accident Dashboard
-Created using tools like Excel, featuring pivot charts and various visualization charts to analyze and display data. Key insights from this project include:
+#ROAD ACCIDENT DASHBOARD
+Created using tools like Excel, featuring pivot charts and various visualization charts 
+to analyze and display data. Key insights from this project include:
 
 Total Casualties:
 Analyzed based on the severity (Fatal, Serious, Slight) of car casualties.
@@ -57,4 +57,5 @@ Compared the percentage of casualties between urban and rural areas.
 Road Type Analysis:
 Highest number of casualties recorded on single carriageways.
 This dashboard provides a comprehensive view of road accident data, helping to identify key patterns and areas for improvement.
+[ROAD ACCIDENT EXCEL FILE](https://github.com/anirudhrebel/EXCEL-DATA-ANALYSIS-PROJECTS/blob/main/Road%20Accident%20Data.xlsx)
 
