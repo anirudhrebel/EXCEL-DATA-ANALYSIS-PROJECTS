@@ -32,10 +32,13 @@ Visualization of overall title winners from the inception of IPL to the latest s
 Analysis of players winning the man of the match most frequently in each season.
 Seasonal and overall insights using slicers connected to pivot charts and visualizations.
 This project offers a comprehensive view of IPL data across multiple seasons, helping to uncover patterns and key insights into team performances, venue advantages, and player achievements.
+
 [IPL_EXCEL_FILE](https://github.com/anirudhrebel/EXCEL-DATA-ANALYSIS-PROJECTS/blob/main/ip%20matches.xlsx)
 
-##**Project - 2**
+##**PROJECT - 2**
+
 ##**ROAD ACCIDENT DASHBOARD**
+
 Created using tools like Excel, featuring pivot charts and various visualization charts 
 to analyze and display data. Key insights from this project include:
 
