@@ -63,3 +63,24 @@ This dashboard provides a comprehensive view of road accident data, helping to i
 
 **[ROAD ACCIDENT EXCEL FILE](https://github.com/anirudhrebel/EXCEL-DATA-ANALYSIS-PROJECTS/blob/main/Road%20Accident%20Data.xlsx)**
 
+##**PROJECT - 3**
+##**MARKETING CAMPAIGN EFFECTIVE ANALYSIS**
+
+This project was created in Excel to analyze and understand the effectiveness of a marketing campaign through interactive visualizations.
+
+**Key Insights:**
+Average Impressions: Analyzed audience impressions across different channels.
+Average Engagement Score: Assessed engagement scores relative to various channels.
+Average Clicks: Evaluated the average number of clicks by the audience on different channels.
+Average Conversion Rate: Measured the conversion rates of the audience across channels.
+
+**Visualizations and Features:**
+Pie Chart: Visualized the distribution of campaigning types among the audience.
+Slicers: Incorporated various slicers for customer segmentation, duration, company, and language to enhance data interactivity.
+
+**Timeline Series:**
+Inserted a monthly timeline series to track changes over time.
+
+##This project demonstrates my ability to leverage Excel for data analysis and create insightful, interactive visualizations to inform marketing strategies.
+[MARKETING EFFECTIVENESS FILE](
+
