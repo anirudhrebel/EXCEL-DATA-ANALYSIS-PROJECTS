@@ -82,5 +82,5 @@ Slicers: Incorporated various slicers for customer segmentation, duration, compa
 Inserted a monthly timeline series to track changes over time.
 
 ##This project demonstrates my ability to leverage Excel for data analysis and create insightful, interactive visualizations to inform marketing strategies.
-[MARKETING EFFECTIVENESS FILE](
+[MARKETING EFFECTIVENESS FILE](marketing analysis.xlsx)
 
