@@ -86,3 +86,27 @@ Inserted a monthly timeline series to track changes over time.
 
 [MARKETING EFFECTIVENESS FILE](https://github.com/anirudhrebel/EXCEL-DATA-ANALYSIS-PROJECTS/blob/main/marketing%20analysis.xlsx)
 
+
+##**PROJECT - 3**
+
+##**ECOMMERCE SALES ANALYSIS**
+
+
+I recently completed an E-commerce Sales Analysis project using Excel, where I leveraged various Excel tools to create insightful visualizations. Here are the key highlights of my analysis:
+
+##**Key Performance Indicators (KPIs):** Analyzed quantity, sales, profits, orders with respect to the years.
+
+##**Gained insights into category-wise sales with respect to years.**
+
+##**Analyzed month-wise sales and profits with respect to years.**
+
+##**Obtained insights into category-wise orders percentage.**
+
+##**Identified the sales of the top 5 performing states.**
+
+##**Conducted category-wise profit analysis.**
+
+##**Analyzed shipping mode with respect to orders.**
+
+
+[ECOMMERCE SALES ANALYSIS FILE]
