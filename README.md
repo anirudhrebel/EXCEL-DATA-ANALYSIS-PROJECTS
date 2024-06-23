@@ -110,3 +110,32 @@ I recently completed an E-commerce Sales Analysis project using Excel, where I l
 
 
 [ECOMMERCE SALES ANALYSIS FILE](https://github.com/anirudhrebel/EXCEL-DATA-ANALYSIS-PROJECTS/blob/main/Ecommerce%20Sales%20Analysis.xlsx)
+
+
+##**PROJECT - 5**
+
+##**VRINDA STORE ANALYSIS**
+
+
+##**Excited to share my latest data analysis project where I leveraged Excel's powerful visualization tools to derive meaningful insights from eCommerce data. Here are the key highlights:**
+
+📊 ##**Monthly Sales Analysis:** Gained insights into orders vs. sales for each month.
+
+🔍 ##**Gender Sales Distribution:** Visualized gender involvement in sales with a pie chart showing percentages.
+
+📦 ##**Order Status Classification:** Categorized and visualized order statuses into Delivered, Refunded, Returned, and Cancelled.
+
+📈 ##**Top State Sales:** Analyzed and visualized sales data for the top 5 states of the year.
+
+👥 ##**Demographic Insights:** Explored orders by age vs. gender and visualized the findings.
+
+🛒 ##**eCommerce Platforms:** Analyzed different types of eCommerce platforms and visualized the data.
+
+🔄 ##**Interactive Slicers:** Implemented slicers for months, product categories, and eCommerce platforms to dynamically filter and gain insights.
+
+This project has enhanced my data analysis skills and deepened my understanding of leveraging Excel for business intelligence. Looking forward to applying these skills in real-world scenarios!
+
+
+[##**VRINDA STORE ANALYSIS**]
+
+
