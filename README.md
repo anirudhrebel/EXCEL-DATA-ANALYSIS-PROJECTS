@@ -136,6 +136,6 @@ I recently completed an E-commerce Sales Analysis project using Excel, where I l
 This project has enhanced my data analysis skills and deepened my understanding of leveraging Excel for business intelligence. Looking forward to applying these skills in real-world scenarios!
 
 
-[##**VRINDA STORE ANALYSIS**]
+[##**VRINDA STORE ANALYSIS**](https://github.com/anirudhrebel/EXCEL-DATA-ANALYSIS-PROJECTS/tree/main)
 
 
